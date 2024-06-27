@@ -1,4 +1,6 @@
-// adapted from https://ffmpeg.org/doxygen/3.1/decoding_encoding_8c-example.html
+// copied from https://ffmpeg.org/doxygen/3.4/decode_video_8c-example.html
+// more 3.4 examples: https://ffmpeg.org/doxygen/3.4/examples.html
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
