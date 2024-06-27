@@ -1,3 +1,4 @@
+./download_ffmpeg.bash
 ./configure_ffmpeg.bash arm64
 cd ffmpeg && make -j
 cd ..
